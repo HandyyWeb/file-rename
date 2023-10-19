@@ -49,7 +49,7 @@ Use the `-c` or `--current` option to use the folder in which you currently are 
 Example :
 
     Andy@LAPTOP-SF4N0MOO MINGW64 ~/Desktop/Some project/Own-project/nodejs-projects/file-rename-cli/test (main)
-    $ rename -c document.html // Do the samer thing as the command rename test document.html
+    $ rename -c document.html // Do the same thing as the previous command
 
 # Other libraries
 
